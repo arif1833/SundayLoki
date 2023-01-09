@@ -9,6 +9,10 @@ public class AccessModifier {
 		protected int ssn = 1236548;
 		
 		    String address = "Heritage Tower";
+		    
+		    public String name = "md";
+		    
+		    //git test
 
 }	
 

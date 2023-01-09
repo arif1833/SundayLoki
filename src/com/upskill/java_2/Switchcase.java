@@ -28,7 +28,9 @@ public class Switchcase {
 		case 7:
 			System.out.println("Sunday");
 			break;
-		
+		case 8:
+			System.out.println("Saturday");
+			 break;
 		}
 
 	}
